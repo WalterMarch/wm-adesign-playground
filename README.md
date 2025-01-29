@@ -2,6 +2,11 @@
 
 This repository will house design documents for my other repositories, particularly the [Playground Repositories](#playground-repositories) listed below. Since these repositories will often feature different implementations of the same short project, the design information for the implementation will be in this repository, rather than be repeated in all the others.
 
+## Implementations
+
+* [Factors of a Positive Integer](./pgImplementations/factors.md)
+* [Hello, World](./pgImplementations/helloworld.md)
+
 ## Playground Repositories
 
 * [C#](https://github.com/WalterMarch/wm-csharp-playground)
