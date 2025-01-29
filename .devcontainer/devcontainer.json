@@ -1,0 +1,33 @@
+{
+	"name": "wm-adesign-playground",
+    // README at: https://github.com/devcontainers/templates/tree/main/src/ubuntu
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu-20.04",
+	// Features to add to the dev container. More info: https://containers.dev/features.
+	"features": {
+		"ghcr.io/devcontainers/features/github-cli:1": {}
+	},
+	// https://stackoverflow.com/a/67803226/21655737
+    	"mounts": [
+		"source=${localEnv:HOME}${localEnv:USERPROFILE}/.ssh,target=/home/vscode/.ssh,type=bind"
+	],
+
+	"postCreateCommand": "${containerWorkspaceFolder}/.devcontainer/post-create.sh ${containerWorkspaceFolder}",	
+
+	// Configure tool-specific properties.
+	"customizations": {
+		"vscode": {
+			"settings" : {
+				"editor.trimAutoWhitespace": true,
+				"files.autoSave": "off"
+			},
+			"extensions": [
+				"ms-vscode-remote.remote-wsl",
+				"eamodio.gitlens",
+				"streetsidesoftware.code-spell-checker",
+				"ms-azuretools.vscode-docker",
+				"DavidAnson.vscode-markdownlint",
+				"analytic-signal.preview-pdf"
+			]
+		}
+	}
+}
