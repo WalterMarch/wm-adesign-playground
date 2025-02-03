@@ -29,12 +29,12 @@ print(factorial(6))
 
 ## Implementations
 
-[+] [C#](https://github.com/WalterMarch/wm-csharp-playground/tree/main/factorial)
-[+] [Java](https://github.com/WalterMarch/wm-java-playground/tree/main/factorial)
-[+] [JavaScript](https://github.com/WalterMarch/wm-javascript-playground/tree/main/factorial)
-[+] [Kotlin](https://github.com/WalterMarch/wm-kotlin-playground/tree/main/factorial)
-[+] [Pascal](https://github.com/WalterMarch/wm-pascal-playground/tree/main/factorial)
-[+] [Perl](https://github.com/WalterMarch/wm-perl-playground/tree/main/factorial)
-[] [Python](https://github.com/WalterMarch/wm-python-playground/tree/main/factorial)
-[] [Scala](https://github.com/WalterMarch/wm-scala-playground/tree/main/factorial)
-[] [TypeScript](https://github.com/WalterMarch/wm-typescript-playground/tree/main/factorial)
+* [C#](https://github.com/WalterMarch/wm-csharp-playground/tree/main/factorial)
+* [Java](https://github.com/WalterMarch/wm-java-playground/tree/main/factorial)
+* [JavaScript](https://github.com/WalterMarch/wm-javascript-playground/tree/main/factorial)
+* [Kotlin](https://github.com/WalterMarch/wm-kotlin-playground/tree/main/factorial)
+* [Pascal](https://github.com/WalterMarch/wm-pascal-playground/tree/main/factorial)
+* [Perl](https://github.com/WalterMarch/wm-perl-playground/tree/main/factorial)
+* Python
+* Scala
+* TypeScript
