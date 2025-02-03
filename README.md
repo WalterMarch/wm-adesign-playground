@@ -4,7 +4,9 @@ This repository will house design documents for my other repositories, particula
 
 ## Implementations
 
+* [Factorial of a Positive Integer](./pgImplementations/factorial.md)
 * [Factors of a Positive Integer](./pgImplementations/factors.md)
+* [FizzBuzz](./pgImplementations/fizzbuzz.md)
 * [Hello, World](./pgImplementations/helloworld.md)
 
 ## Playground Repositories
