@@ -35,6 +35,6 @@ print(factorial(6))
 * [Kotlin](https://github.com/WalterMarch/wm-kotlin-playground/tree/main/factorial)
 * [Pascal](https://github.com/WalterMarch/wm-pascal-playground/tree/main/factorial)
 * [Perl](https://github.com/WalterMarch/wm-perl-playground/tree/main/factorial)
-* Python
+* [Python](https://github.com/WalterMarch/wm-python-playground/tree/main/factorial)
 * Scala
 * TypeScript
