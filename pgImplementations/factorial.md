@@ -37,4 +37,4 @@ print(factorial(6))
 * [Perl](https://github.com/WalterMarch/wm-perl-playground/tree/main/factorial)
 * [Python](https://github.com/WalterMarch/wm-python-playground/tree/main/factorial)
 * [Scala](https://github.com/WalterMarch/wm-scala-playground/tree/main/factorial)
-* TypeScript
+* [TypeScript](https://github.com/WalterMarch/wm-typescript-playground/tree/main/factorial)
