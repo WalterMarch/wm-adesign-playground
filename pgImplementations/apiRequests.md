@@ -57,7 +57,7 @@ Use [OkSurf News API](https://ok.surf/), for example.
 ## Implementations
 
 * [C#](https://github.com/WalterMarch/wm-csharp-playground/tree/main/apiRequests)
-* Java
+* [Java](https://github.com/WalterMarch/wm-java-playground/tree/main/apiRequests)
 * JavaScript
 * Kotlin
 * Pascal
