@@ -56,6 +56,8 @@ Use [OkSurf News API](https://ok.surf/), for example.
 
 ## Implementations
 
+Most of the completed implementations of this project are amateurish hacks (because that's what I am in most of these languages) and probably shouldn't be used in production.
+
 * [C#](https://github.com/WalterMarch/wm-csharp-playground/tree/main/apiRequests)
 * [Java](https://github.com/WalterMarch/wm-java-playground/tree/main/apiRequests)
 * [JavaScript](https://github.com/WalterMarch/wm-javascript-playground/tree/main/apiRequests)
