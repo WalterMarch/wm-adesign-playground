@@ -4,7 +4,6 @@ This repository will house design documents for my other repositories, particula
 
 ## Implementations
 
-* [API Requests](./pgImplementations/apiRequests.md)
 * [Factorial of a Positive Integer](./pgImplementations/factorial.md)
 * [Factors of a Positive Integer](./pgImplementations/factors.md)
 * [FizzBuzz](./pgImplementations/fizzbuzz.md)
